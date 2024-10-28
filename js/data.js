@@ -28,6 +28,22 @@ const coso_arr = [
     { id: 11, ten: "Lady Light", diachi: "", "hinh": "images/Lady-Light.png" },
     { id: 12, ten: "Mountain light", diachi: "", "hinh": "images/Mountain_light.png" },
     { id: 13, ten: "Riverside light", diachi: "", "hinh": "images/Riverside_light.png" },
-    { id: 14, ten: "Summer Scene Light", diachi: "", "hinh": "images/Summer-Scene-Light.png" }
+    { id: 14, ten: "Summer Scene Light", diachi: "", "hinh": "images/Summer-Scene-Light.png" },
+    { id: 15, ten: "Tree light", diachi: "", "hinh": "images/Tree_light.png" },
+    { id: 16, ten: "Beach Dark", diachi: "", "hinh": "images/Beach-Dark.png" },
+    { id: 17, ten: "City dark", diachi: "", "hinh": "images/City_dark.png" },
+    { id: 18, ten: "Dessert Dark", diachi: "", "hinh": "images/Dessert-Dark.png" },
+    { id: 19, ten: "Forest Light", diachi: "", "hinh": "images/Forest-Light.png" },
+    { id: 20, ten: "Mountain Light", diachi: "", "hinh": "images/Mountain_light.png" },
+    { id: 21, ten: "Fuji light", diachi: "", "hinh": "images/Fuji_light.png" },
+    { id: 22, ten: "Garden Light", diachi: "", "hinh": "images/Garden-Light.png" },
+    { id: 23, ten: "highway light", diachi: "", "hinh": "images/highway_light.png" },
+    { id: 24, ten: "japan street Light", diachi: "", "hinh": "images/japan-street-Light.png" },
+    { id: 25, ten: "kitty dark", diachi: "", "hinh": "images/kitty_dark.png" },
+    { id: 26, ten: "Lady Dark", diachi: "", "hinh": "images/Lady-Dark.png" },
+    { id: 27, ten: "Mountain dark", diachi: "", "hinh": "images/Mountain_dark.png" },
+    { id: 28, ten: "Riverside light", diachi: "", "hinh": "images/Riverside_light.png" },
+    { id: 29, ten: "Summer Scene Light", diachi: "", "hinh": "images/Summer-Scene-Light.png" },
+    { id: 30, ten: "Tree light", diachi: "", "hinh": "images/Tree_light.png" },
 ];
 export { hv_arr, coso_arr, khoahoc_arr };
