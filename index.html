@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/c1.css">
+</head>
+
+<body>
+    <header id="header"> </header>
+    <nav id="menu">
+        <a href="#listcoso"> Hình nền đẹp</a>
+    </nav>
+    <main>
+        <section id="listcoso">
+            <h2> Hình Nền</h2>
+            <div id="data"></div>
+        </section>
+
+    </main>
+    <footer> Họ tên sinh viên: Phan Thế Kỷ PS29585</footer>
+</body>
+
+</html>
+<script type="module">
+    import { showlistkhoahoc, showlisthocvien, showlistcoso, showlistthuonghieu } from './js/app.js';
+    document.querySelector("#listcoso #data").innerHTML = showlistcoso();
+
+</script>
