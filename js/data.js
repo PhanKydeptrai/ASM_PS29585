@@ -24,6 +24,10 @@ const coso_arr = [
     { id: 7, ten: "Garden Light", diachi: "", "hinh": "images/Garden-Light.png" },
     { id: 8, ten: "highway light", diachi: "", "hinh": "images/highway_light.png" },
     { id: 9, ten: "japan street Light", diachi: "", "hinh": "images/japan-street-Light.png" },
-    { id: 10, ten: "kitty light", diachi: "", "hinh": "images/kitty_light.png" }
+    { id: 10, ten: "kitty light", diachi: "", "hinh": "images/kitty_light.png" },
+    { id: 11, ten: "Lady Light", diachi: "", "hinh": "images/Lady-Light.png" },
+    { id: 12, ten: "Mountain light", diachi: "", "hinh": "images/Mountain_light.png" },
+    { id: 13, ten: "Riverside light", diachi: "", "hinh": "images/Riverside_light.png" },
+    { id: 14, ten: "Summer Scene Light", diachi: "", "hinh": "images/Summer-Scene-Light.png" }
 ];
 export { hv_arr, coso_arr, khoahoc_arr };
